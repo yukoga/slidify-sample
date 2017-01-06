@@ -36,3 +36,5 @@ vignettes/*.pdf
 *.md
 *.Rmd
 
+# other files
+.DS_Store
